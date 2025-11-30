@@ -1,0 +1,9 @@
+/*
+ *= require_tree .
+ *= require_self
+ */
+
+/* Optional: simple base style */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
